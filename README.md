@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/santoshkunwar8/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/santoshkunwar8/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/santoshkunwar8/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/santoshkunwar8/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/santoshkunwar8/leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/santoshkunwar8/leetcode/tree/master/0541-reverse-string-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/santoshkunwar8/leetcode/tree/master/0283-move-zeroes) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/santoshkunwar8/leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Dynamic Programming
 |  |
