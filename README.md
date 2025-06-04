@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/santoshkunwar8/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/santoshkunwar8/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/santoshkunwar8/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/santoshkunwar8/leetcode/tree/master/0202-happy-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/santoshkunwar8/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/santoshkunwar8/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/santoshkunwar8/leetcode/tree/master/0283-move-zeroes) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/santoshkunwar8/leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
