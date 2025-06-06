@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/santoshkunwar8/leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/santoshkunwar8/leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/santoshkunwar8/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0861-flipping-an-image](https://github.com/santoshkunwar8/leetcode/tree/master/0861-flipping-an-image) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/santoshkunwar8/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/santoshkunwar8/leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/santoshkunwar8/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/santoshkunwar8/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/santoshkunwar8/leetcode/tree/master/0455-assign-cookies) |
+| [0861-flipping-an-image](https://github.com/santoshkunwar8/leetcode/tree/master/0861-flipping-an-image) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/santoshkunwar8/leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Dynamic Programming
 |  |
@@ -74,4 +76,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/santoshkunwar8/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/santoshkunwar8/leetcode/tree/master/0680-valid-palindrome-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/santoshkunwar8/leetcode/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/santoshkunwar8/leetcode/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/santoshkunwar8/leetcode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
