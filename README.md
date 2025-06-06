@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/santoshkunwar8/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/santoshkunwar8/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/santoshkunwar8/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/santoshkunwar8/leetcode/tree/master/0088-merge-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/santoshkunwar8/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/santoshkunwar8/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/santoshkunwar8/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/santoshkunwar8/leetcode/tree/master/0283-move-zeroes) |
