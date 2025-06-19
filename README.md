@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santoshkunwar8/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/santoshkunwar8/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/santoshkunwar8/leetcode/tree/master/0088-merge-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/santoshkunwar8/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/santoshkunwar8/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/santoshkunwar8/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/santoshkunwar8/leetcode/tree/master/0455-assign-cookies) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/santoshkunwar8/leetcode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/santoshkunwar8/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/santoshkunwar8/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/santoshkunwar8/leetcode/tree/master/0861-flipping-an-image) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/santoshkunwar8/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
