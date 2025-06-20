@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/santoshkunwar8/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0841-shortest-distance-to-a-character](https://github.com/santoshkunwar8/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/santoshkunwar8/leetcode/tree/master/0861-flipping-an-image) |
+| [1755-defuse-the-bomb](https://github.com/santoshkunwar8/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/santoshkunwar8/leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Dynamic Programming
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/santoshkunwar8/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/santoshkunwar8/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/santoshkunwar8/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1755-defuse-the-bomb](https://github.com/santoshkunwar8/leetcode/tree/master/1755-defuse-the-bomb) |
 ## Counting
 |  |
 | ------- |
